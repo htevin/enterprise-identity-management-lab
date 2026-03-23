@@ -3,9 +3,7 @@
 
 
 ## 📌 Project Overview
-This project demonstrates the end-to-end administration of digital identities and access controls within a Microsoft Entra ID (formerly Azure AD) environment. Using a simulated enterprise scenario ("Wayne Enterprises / The Justice League"), this lab highlights the practical application of core Identity and Access Management (IAM) principles, including user lifecycle management, role-based access control (RBAC), licensing, and B2B external collaboration.
-
-This repository serves as a practical showcase of the skills required for modern identity administration and aligns directly with the competencies of the Microsoft Identity and Access Administrator (SC-300) certification.
+This lab is a hands-on Entra ID lab demonstrating core identity administration, including user provisioning, RBAC, licensing, and B2B collaboration.
 
 ## 🛠️ Skills & Technologies Demonstrated
 * **Identity Platform:** Microsoft Entra ID, Microsoft 365 Admin Center
