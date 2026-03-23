@@ -33,9 +33,9 @@ Established a standard internal member account with secure, auto-generated crede
   <p>
 <img src="https://imgur.com/fBfTsh0.png" height="80%" width="80%""/>
 </p>
-5. Selected the **Properties** tab and configured identity values (First name: Clark, Last name: Kent).
-6. Configured the **Usage location** to **United States** to ensure compliance for future service license assignments.
-7. Selected **Review + create**, then **Create**.
+5. Selected the **Properties** tab and configured identity values (First name: Clark, Last name: Kent). <br>
+6. Configured the **Usage location** to **United States** to ensure compliance for future service license assignments. <br>
+7. Selected **Review + create**, then **Create**. <br>
 8. Validated successful deployment by querying the directory.
 <p>
 <img src="https://imgur.com/9AvFZBc.png" height="80%" width="80%""/>
@@ -47,7 +47,7 @@ Assigned necessary SaaS product licenses to enable productivity and automated wo
 1. Navigated to the [Microsoft 365 admin center](https://admin.microsoft.com).
 2. Expanded the **Billing** menu and selected **Licenses**.
 3. Selected an available operational license (e.g., **Microsoft Power Automate Free**).
-4. Selected **+ Assign licenses** and targeted the **Clark Kent** user object.
+4. Selected Office 365 E5 (no Teams) + Assign licenses** and targeted the **Clark Kent** user object.
   <p>
 <img src="https://imgur.com/bpgrehG.png" height="80%" width="80%""/>
 </p>
@@ -88,7 +88,7 @@ Streamlined the onboarding process for multiple identities simultaneously via CS
 
 1. Navigated to **Identity** > **Users** > **All users**.
 2. Selected **Bulk operations** > **Bulk create** and downloaded the strict CSV schema template.
-3. Populated the template with compliant data, retaining the mandatory `version:v1.0` header row and aligning UPNs with the verified tenant domain:
+3. Populated the template with compliant data:
    * Diana Prince (Wonder Woman)
    * Barry Allen (The Flash)
    * Arthur Curry (Aquaman)
